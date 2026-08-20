@@ -293,7 +293,7 @@ rich
 
 | Peran | Nama |
 |:---|:---|
-| Peneliti QSAR | **Mun Awani** |
+| Peneliti QSAR | **Luffy-XD** |
 
 ---
 
